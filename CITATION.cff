@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Community-Based Rubble and Marine Plastic Recovery for Gaza"
+message: "If you use this work, please cite it as below."
+type: report
+authors:
+  - family-names: "Seyedabadi"
+    given-names: "Mostafa"
+date-released: 2026-02-03
+version: "v1.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/moseyedabadi-bit/undp-un"
+abstract: >
+  A UN-style, independent proposal for early recovery in the Gaza Strip,
+  focused on low-technology, low-water community recovery hubs that transform
+  war rubble into low-cost construction materials and marine plastic waste into
+  food-linked, in-kind economic value.
+keywords:
+  - UNDP
+  - United Nations
+  - Early Recovery
+  - Gaza
+  - Humanitarian Reconstruction
+  - Circular Economy
+  - Waste Management
+  - Marine Plastic
+  - Rubble Recycling
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Seyedabadi"
+      given-names: "Mostafa"
+  title: "Community-Based Rubble and Marine Plastic Recovery for Gaza"
+  year: 2026
+  version: "v1.0"
+  url: "https://github.com/moseyedabadi-bit/undp-un"
