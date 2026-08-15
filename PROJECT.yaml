@@ -1,0 +1,33 @@
+schema_version: 1
+project:
+  name: Gaza-Rubble-Plastic-Recovery-Proposal
+  type: independent-humanitarian-proposal
+  status: draft
+  domains:
+    - humanitarian-early-recovery
+    - rubble-recovery
+    - plastic-recovery
+    - circular-economy
+  geographic_context: Gaza
+  human_entry: README.md
+  ai_entry: llms.txt
+  canonical_text: UNDP-UN_Full_Proposal_Gaza_Rubble_Plastic.md
+  presentation_artifact: UNDP-UN_Full_Proposal_Gaza_Rubble_Plastic.pdf
+  disclaimer: DISCLAIMER.md
+  author:
+    name: Mostafa Seyedabadi
+interpretation:
+  official_un_document: false
+  undp_endorsement_claim: false
+  deployment_claim: false
+  field_data_verified_by_repository: false
+  requires_field_validation: true
+risk_domains:
+  - humanitarian-safety
+  - environmental-safety
+  - structural-rubble
+  - explosive-remnants
+  - legal-and-local-compliance
+safety:
+  prohibit_secrets: true
+  prohibit_sensitive_beneficiary_data: true

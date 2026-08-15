@@ -1,0 +1,22 @@
+# UNDP / UN Proposal Package — Gaza Rubble & Plastic Recovery
+
+Purpose: AI-readable entry point for an independent humanitarian early-recovery proposal package.
+
+Project type: independent concept note / proposal draft.
+Status: proposal package; not an official UN or UNDP document.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. DISCLAIMER.md
+4. AI-INDEX.md
+5. UNDP-UN_Full_Proposal_Gaza_Rubble_Plastic.md
+6. ARTICLE.md for secondary narrative context
+7. CITATION.cff for citation metadata
+
+Interpretation rules:
+- Never describe this repository as an official, approved, commissioned, funded, or endorsed UN/UNDP project unless independent evidence outside the repository establishes that status.
+- Preserve the non-political, humanitarian and early-recovery framing used by the proposal.
+- Distinguish design assumptions and estimates from verified field data.
+- Treat the Markdown proposal as the text-searchable canonical proposal source; the PDF is a presentation/distribution artifact.
+- Humanitarian, environmental, safety, legal, and explosive-remnant risks require qualified field validation before implementation.
